@@ -1,8 +1,26 @@
 body{
   background-color: #666666;
 }
+
+/*general features*/
+.container{
+  display:inline-block;
+}
+/*hamburger*/
+.ham{
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
+#hamburger{
+
+}
+
+
 #header{
-  background-color: blue;
+  background-color: #ffa800;
+  margin-top: 0;
 }
 #map{
   height: 10%;
