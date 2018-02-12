@@ -1,0 +1,23 @@
+body{
+  background-color: #666666;
+}
+#header{
+  background-color: blue;
+}
+#map{
+  height: 10%;
+  width: 10%;
+  background-color: red;
+  margin-left: 5%;
+  display: flex;
+}
+
+#birdPic{
+  height: 10%;
+  width: 10%;
+  background-color: red;
+  margin-left: 5%;
+  display: flex;
+  /*rotates the div a certain number of degrees*/
+  transform: rotate(2deg);
+}
