@@ -21,6 +21,8 @@ body{
 #header{
   background-color: #ffa800;
   margin-top: 0;
+  border-top: 3px solid rgba(255,255,255,1);
+  border-bottom: 3px solid rgba(0,0,0,1);
 }
 #map{
   height: 10%;
