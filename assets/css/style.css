@@ -15,11 +15,15 @@ body{
 }
 #hamburger{
 width: 10%;
-
+margin: auto;
 }
 
+#title{
+  margin: auto;
+}
 
 #header{
+  height: 100px;
   background-color: #ffa800;
   margin-top: 0;
   border-top: 3px solid rgba(255,255,255,1);
