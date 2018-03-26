@@ -6,6 +6,16 @@ body{
 .container{
   display:inline-block;
 }
+#header{
+  height: 100px;
+  background-color: #ffa800;
+  margin-top: 0;
+  border-top: 3px solid rgba(255,255,255,1);
+  border-bottom: 3px solid rgba(0,0,0,1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 /*hamburger*/
 .ham{
   width: 35px;
@@ -14,24 +24,14 @@ body{
   margin: 6px 0;
 }
 #hamburger{
-width: 10%;
-margin: auto;
-}
 
+}
+/* website title*/
 #title{
   margin: auto;
 }
 
-#header{
-  height: 100px;
-  background-color: #ffa800;
-  margin-top: 0;
-  border-top: 3px solid rgba(255,255,255,1);
-  border-bottom: 3px solid rgba(0,0,0,1);
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-}
+
 #map{
   height: 10%;
   width: 10%;
