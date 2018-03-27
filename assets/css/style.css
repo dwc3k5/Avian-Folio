@@ -31,6 +31,9 @@ body{
   margin: auto;
 }
 
+#primaryInfo{
+  margin: 10px;
+}
 
 #map{
   height: 10%;
@@ -41,11 +44,19 @@ body{
 }
 
 #birdPic{
-  height: 10%;
-  width: 10%;
+  height: 20%;
+  width: 15%;
   background-color: red;
   margin-left: 5%;
-  display: flex;
+  /* display: flex; */
   /*rotates the div a certain number of degrees*/
-  transform: rotate(15deg);
+  /* transform: rotate(15deg); */
+}
+
+#sideBarRight{
+  height:100%;
+  width:15%;
+  margin-right: 0;
+  margin-left: auto;
+  background-color: purple;
 }
