@@ -56,7 +56,7 @@ body{
 #sideBarRight{
   height:50%;
   width:15%;
-  right:0;
+  right:5px;
   top:120px;
   background-color: purple;
   position: absolute;
